@@ -1,0 +1,3 @@
+cache getMatrix
+put all IO in threads
+double buffer screen
